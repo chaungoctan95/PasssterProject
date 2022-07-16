@@ -1,5 +1,6 @@
 # PasssterProject
 
-- Use InitiJ IDE to open Project
-- Testcase and Answer in File
+- Using TestNG Framework in Selenium Script
+- This Maven Project build with IntelliJ IDEA
+- Testcase, Aswers and Record AT in File Folder 
 
